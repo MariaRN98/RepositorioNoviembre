@@ -2,4 +2,5 @@
 
 **prueba negrito**
 *prueba cursiva*
-**print("hola mundo")**
+````python
+print("hola mundo")
